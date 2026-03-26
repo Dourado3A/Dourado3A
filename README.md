@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Salve, Dourado aqui ! </h2>
+<h2 align="left">👋! Salve, Dourado aqui ! </h2>
 
 ###
 
